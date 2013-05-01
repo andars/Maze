@@ -1,4 +1,6 @@
 Maze
 ====
 
-java maze generator - depth first search
+Java maze generator
+
+-Uses Depth First Search
